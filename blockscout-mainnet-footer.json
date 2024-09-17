@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Asset Chain",
+    "links": [
+      {
+        "text": "Contact us",
+        "url": "https://xend.finance"
+      },
+      {
+        "text": "Terms & Condition",
+        "url": "https://xend.finance/terms"
+      },
+      {
+        "text": "Privacy Policy",
+        "url": "https://xend.finance/policy"
+      }
+    ]
+  },
+  {
+    "title": "Products",
+    "links": [
+    ]
+  },
+  {
+    "title": "Developers",
+    "links": [
+      {
+        "text": "Asset Chain Academy",
+        "url": "https://academy.assetchain.org"
+      },
+      {
+        "text": "Documentation",
+        "url": "https://docs.assetchain.org"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/xendfinance/"
+      },
+      {
+        "text": "Status",
+        "url": "https://coming-soon.com"
+      }
+    ]
+  },
+  {
+    "title": "Community",
+    "links": [
+      {
+        "text": "Twitter",
+        "url": "https://x.com/rwaassetchain"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/Bd2RSPcy"
+      },
+      {
+        "text": "Telegram",
+        "url": "https://t.me/AssetChainBuilders"
+      },
+      {
+        "text": "Youtube",
+        "url": "https://www.youtube.com/@AssetChain"
+      },
+      {
+        "text": "LinkedIn",
+        "url": " https://www.linkedin.com/company/theassetchain"
+      },
+      {
+        "text": "Blog",
+        "url": "http://medium.com/xendfinance"
+      }
+    ]
+  }
+]
