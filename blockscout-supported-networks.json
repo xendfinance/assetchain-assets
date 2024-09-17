@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Asset Chain", 
+        "url": "https://coming-soon.com",
+        "group":"Mainnets",
+		"isActive": true,
+		"icon": "https://raw.githubusercontent.com/xendfinance/assets/main/AC-Secondary%20Logo_White.png"
+    },
+    { 
+        "title": "Asset Chain Testnet", 
+        "url": "https://scan-testnet.assetchain.org/",
+        "group":"Testnets",
+		"icon": "https://raw.githubusercontent.com/xendfinance/assets/main/AC-Secondary%20Logo_White.png"
+    }
+]
