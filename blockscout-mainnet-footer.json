@@ -19,6 +19,22 @@
   {
     "title": "Products",
     "links": [
+      {
+        "text": "Bridge",
+        "url": "https://bridge.assetchain.org"
+      },
+      {
+        "text": "Swap",
+        "url": "https://swap.assetchain.org"
+      },
+      {
+        "text": "Staking",
+        "url": "https://stake.assetchain.org"
+      },
+      {
+        "text": "Basic Explorer",
+        "url": "https://explorer.assetchain.org"
+      }
     ]
   },
   {
