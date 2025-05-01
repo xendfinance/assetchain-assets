@@ -5,6 +5,10 @@
       {
         "text": "Contact us",
         "url": "mailto:hello@assetchain.org"
+      },
+      {
+        "text": "Track on Defillama",
+        "url": "https://defillama.com/chain/Asset%20Chain"
       }
     ]
   },
